@@ -1,6 +1,6 @@
 Just a Pleb who loves ₿itcoin
 
-<img src="Images/pfp.png" width="500" height="500" />
+<img src="Images/pfp.png" width="500" height="auto" />
 
 Making pics with AI 
 
